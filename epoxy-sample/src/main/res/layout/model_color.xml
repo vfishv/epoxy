@@ -9,7 +9,6 @@
         android:id="@+id/lottie_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:visibility="gone"
-        app:lottie_fileName="favourite_app_icon.json" />
+        android:visibility="gone" />
 
 </androidx.cardview.widget.CardView>
